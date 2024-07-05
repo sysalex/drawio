@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T10:10:59.721Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="XGSXfrcULZ1gdrUzsXfM" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T10:11:53.222Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="itm1-QS8rj-p0J-MSGnN" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
           <mxGeometry x="250" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BCOjfWxPIyxtcqSwEmAq-18" value="元素权限组表" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="791" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BCOjfWxPIyxtcqSwEmAq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BCOjfWxPIyxtcqSwEmAq-19" target="BCOjfWxPIyxtcqSwEmAq-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
